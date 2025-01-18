@@ -1,4 +1,4 @@
-# Image Transformation Flask App
+# Image Augmentation Flask App
 
 This project is a Flask-based web application that allows users to upload images, apply a series of transformations to them, and download the transformed images as a zip file. It uses the Albumentations library for applying image augmentations such as adding rain, snow, brightness adjustments, and more.
 
@@ -26,8 +26,8 @@ This project is a Flask-based web application that allows users to upload images
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/image-transformation-app.git
-   cd image-transformation-app
+   https://github.com/Ammar-Asim-23/Image-Augmentation-Web-App
+   cd Image-Augmentation-Web-App
    ```
 2. Create a virtual environment:
    ```bash
